@@ -8,15 +8,15 @@
 #                                                 /____/        
 #
 # Title of your website
-title: "Feeling Responsive"
+title: "Aakash-The Things Learnt"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "A Flexible Theme for Jekyll"
+slogan: "A Journey"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette."
+description: "»?"
 
 
 # This URL is the main adresse. Don't include a slash at the end.
@@ -87,7 +87,7 @@ defaults:
       show_meta: true 	# Show metadata beneath all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: "your_author_name"
+      author: "Aakash"
   -
     scope:
       path: ""        
@@ -96,7 +96,7 @@ defaults:
       show_meta: true   # Show metadata beneath all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: "your_author_name"
+      author: "Aakash"
 
 
 
